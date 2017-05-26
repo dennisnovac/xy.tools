@@ -1,0 +1,23 @@
+ /* Images */
+ - Replaced "public/img/fav_dark_16.png" with "XY_square_light2.png"
+ - Replaced "public/img/fav_dark_32.png" with "XY_square_dark2.png"
+ - Replaced "public/img/fav16.png" with "XY_square_light2.png"
+ - Replaced "public/img/fav32.png" with "XY_square_light2.png"
+ - Replaced "public/img/grafana_icon.svg" with "XY_square_light2.svg"
+ - Replaced "public/img/grafana_net_logo.svg" with "XY_square_light2.svg"
+ - Replaced "public/img/logo_transparent200x.png" with "XY_tools_light2.svg"
+ - Replaced "public/img/logo_transparent200x75.png" with "XY_tools_light2.svg"
+ - Replaced "public/img/logo_transparent400x.png" with "XY_tools_light2.svg"
+
+ /* Strings */
+ - Edited "public/app/core/components/navbar/navbar.html" to contain xy.tools logo
+ - Edited "public/app/core/features/admin/partials/users.html" string Grafana to xy.tools
+ - Edited "public/app/core/features/org/partials/add_user.html" string Grafana to xy.tools
+ - Edited "public/app/core/features/org/partials/invite.html" string Grafana to xy.tools
+ - Edited "public/app/core/features/plugins/partials/update_instructions.html" string Grafana to xy.tools
+ - Edited "public/views/index.html" - removed footer and edited title
+ - Edited "public/views/407.html and 500.html" edited title
+ - Edited "public/emails/*all files*.html" string Grafana to xy.tools
+
+/* Styling */
+ - Edited "public/sass/components/_navbar.scss" - added and styled a class for the navigation bar logo
