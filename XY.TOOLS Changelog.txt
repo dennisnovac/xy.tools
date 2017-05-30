@@ -8,15 +8,17 @@
  - Replaced "public/img/logo_transparent200x.png" with "XY_tools_light2.svg"
  - Replaced "public/img/logo_transparent200x75.png" with "XY_tools_light2.svg"
  - Replaced "public/img/logo_transparent400x.png" with "XY_tools_light2.svg"
+ - Added "public/img/logo-text.svg"
 
  /* Strings */
  - Edited "public/app/core/components/navbar/navbar.html" to contain xy.tools logo
- - Edited "public/app/core/features/admin/partials/users.html" string Grafana to xy.tools
- - Edited "public/app/core/features/org/partials/add_user.html" string Grafana to xy.tools
- - Edited "public/app/core/features/org/partials/invite.html" string Grafana to xy.tools
- - Edited "public/app/core/features/plugins/partials/update_instructions.html" string Grafana to xy.tools
+ - Edited "public/app/features/admin/partials/users.html" string Grafana to xy.tools
+ - Edited "public/app/features/org/partials/add_user.html" string Grafana to xy.tools
+ - Edited "public/app/features/org/partials/invite.html" string Grafana to xy.tools
+ - Edited "public/app/features/plugins/partials/update_instructions.html" string Grafana to xy.tools
  - Edited "public/views/index.html" - removed footer and edited title
- - Edited "public/views/407.html and 500.html" edited title
+ - Edited "public/views/407.html" edited title
+ - Edited "public/views/500.html" edited title
  - Edited "public/emails” string Grafana to xy.tools in all files
  - Edited “public/app/partials/login.html”
  - Edited “public/app/partials/reset_password.html”
