@@ -17,7 +17,11 @@
  - Edited "public/app/core/features/plugins/partials/update_instructions.html" string Grafana to xy.tools
  - Edited "public/views/index.html" - removed footer and edited title
  - Edited "public/views/407.html and 500.html" edited title
- - Edited "public/emails/*all files*.html" string Grafana to xy.tools
+ - Edited "public/emails” string Grafana to xy.tools in all files
+ - Edited “public/app/partials/login.html”
+ - Edited “public/app/partials/reset_password.html”
+ - Edited “public/app/partials/signup_invited.html”
+ - Edited “public/app/partials/signup_step2.html”
 
 /* Styling */
  - Edited "public/sass/components/_navbar.scss" - added and styled a class for the navigation bar logo
